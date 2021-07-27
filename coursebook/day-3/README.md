@@ -1,0 +1,12 @@
+# Basic HTML 
+- 1:30 - 2:15 — discuss Thursday [Homework](../day-2/homework.md)
+- 2:15 - 2:45 — [Basic HTML](https://btholt.github.io/intro-to-web-dev-v2/basic-html)
+  - button
+  - img
+  - input
+  - textarea
+- 2:45 - 3:00 — Fizz Buzz Energizer
+- 3:00 - 3:30 — [Basic HTML](https://btholt.github.io/intro-to-web-dev-v2/basic-html)
+  - select and option
+  - form
+- 3:30 - 4:00 — [Homework](./homework.md)
